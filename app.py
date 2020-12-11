@@ -23,7 +23,7 @@ consumerSecret = 'rvJ7mPmuwXG4CRav06nda25eR97hH39Txbp3uhL07jdZzXgXrV'
 accessToken = '1287928297049923584-iKoIq74Lnqfd3MO0hgPHM89yx5vFgf'
 accessTokenSecret = 'XWFW3oPCztbbmxVnuCygFHSzHDMn38KT3skFnsuNZOgk1'
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 
 #Create the authentication object
 authenticate = tweepy.OAuthHandler(consumerKey, consumerSecret) 
