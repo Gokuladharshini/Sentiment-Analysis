@@ -18,10 +18,10 @@ import seaborn as sns
 
 
 
-consumerKey = 'iRrz25xRzMmjYplAWMPUfZmfT'
-consumerSecret = 'rvJ7mPmuwXG4CRav06nda25eR97hH39Txbp3uhL07jdZzXgXrV'
-accessToken = '1287928297049923584-iKoIq74Lnqfd3MO0hgPHM89yx5vFgf'
-accessTokenSecret = 'XWFW3oPCztbbmxVnuCygFHSzHDMn38KT3skFnsuNZOgk1'
+consumerKey = '****'
+consumerSecret = '****'
+accessToken = '****'
+accessTokenSecret = '****'
 
 #st.set_option('deprecation.showPyplotGlobalUse', False)
 
@@ -297,41 +297,7 @@ def app():
 			st.write(df)
 
 
-
-
-
-
-
-
-
 			
-
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 if __name__ == "__main__":
 	app()
